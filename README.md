@@ -54,7 +54,3 @@ You are welcome to copy and paste HTML from my lecture slides, but the quotes mi
 Commit early, commit often - that way you can go back if you have made a mistake and I can see all the work you have done. There's no problem if you commit and there's a mistake in your file.  
 
 Once you are done be sure to commit your changes (that will save them to the repository) and to push them to GitHub (so that I can see the work you have done).
-
-This task is part of your first assignment. **The deadline for this task is 0:00 on 21.11.2017** (GMT / UTC / Zulu time).  
-
-As this task is part of the first assignment you should work individually, not with other students, and shouldn't show the final version of your files to other students, e.g. on the module discussion board.
